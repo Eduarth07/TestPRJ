@@ -50,7 +50,7 @@ else if (product[2] == "L")
 {
     size = "Large";
 }
-else if (product[2] == "XS")
+else if (product[2] == "XM")
 {
     size = "Super Small";
 }
