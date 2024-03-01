@@ -50,6 +50,10 @@ else if (product[2] == "L")
 {
     size = "Large";
 }
+else if (product[2] == "XS")
+{
+    size = "Super Small";
+}
 else
 {
     size = "One Size Fits All";
